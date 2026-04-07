@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 # --- Configuration ---
 # Get your free API key from: https://aistudio.google.com/
-GEMINI_API_KEY = "AIzaSyDo6TPLOgpEnIl5scVLf4eKU_22f8_Hx6U" 
+GEMINI_API_KEY = "your api key" 
 
 TICKERS = {"IRFC": "Indian Railway Finance Corporation", 
            "RVNL": "Rail Vikas Nigam Limited", 
